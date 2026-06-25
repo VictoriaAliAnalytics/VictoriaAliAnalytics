@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi there, I'm Victoria Ali 
 
-<!--
-**VictoriaAliAnalytics/VictoriaAliAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Business Intelligence | AI-Powered Analytics
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Analyst with over 16 years of experience in financial leadership, business operations, and strategic decision-making. After a successful career in finance, I'm transitioning into Data Analytics, where I combine business expertise with technical skills to transform data into actionable insights.
+
+I'm passionate about solving business problems using data, building interactive dashboards, and helping organizations make informed decisions.
+
+---
+
+## About Me
+
+-  Data Analyst passionate about Business Intelligence and Analytics
+-  Experienced in KPI reporting, forecasting, and performance analysis
+- Interested in AI-powered analytics and workflow automation
+-  Based in Lagos, Nigeria
+-  Currently advancing my skills in Data & Business Analytics and Generative AI
+-  Open to Data Analyst, Business Intelligence, and Analytics Internship opportunities
+
+---
+
+##  Technical Skills
+
+### Data Analytics
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- KPI Reporting
+- Predictive Analytics
+- Business Intelligence
+
+### Tools & Technologies
+- Power BI
+- Tableau
+- SQL
+- Python (Pandas)
+- Databricks
+- Microsoft Excel
+
+### AI & Automation
+- ChatGPT
+- Microsoft Copilot
+- Google Gemini
+- Claude AI
+- n8n
+- Julius AI
+- MOSTLY AI
+
+---
+
+##  Featured Projects
+
+ Projects are currently being added. Stay tuned!
+
+Upcoming projects include:
+- Power BI Sales Dashboard
+- SQL Data Cleaning
+- Python Data Analysis
+- Customer Churn Analysis
+- Financial Performance Dashboard
+- HR Analytics Dashboard
+
+---
+
+##  Education
+
+- MBA – Marketing Management
+- B.Sc. Economics
+- Advanced Training in Data & Business Analytics
+- Generative AI for Data Analytics
+
+---
+
+##  Career Goal
+
+To leverage data analytics, business intelligence, and AI technologies to help organizations transform data into actionable insights, improve operational efficiency, and support strategic decision-making.
+
+---
+
+##  Connect With Me
+
+-  Email: ali.vickypee@gmail.com
+-  LinkedIn: *(https://www.linkedin.com/in/victoria-ali-analytics/)*
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
