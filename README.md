@@ -16,7 +16,7 @@ I'm passionate about solving business problems using data, building interactive 
 -  Experienced in KPI reporting, forecasting, and performance analysis
 - Interested in AI-powered analytics and workflow automation
 -  Based in Lagos, Nigeria
--  Currently advancing my skills in Data & Business Analytics and Generative AI
+-   Recently completed advanced training in Data & Business Analytics and Generative AI, with hands-on experience in Power BI, SQL, Python, Databricks, and AI-powered analytics.
 -  Open to Data Analyst, Business Intelligence, and Analytics Internship opportunities
 
 ---
@@ -37,7 +37,7 @@ I'm passionate about solving business problems using data, building interactive 
 - SQL
 - Python (Pandas)
 - Databricks
-- Microsoft Excel
+
 
 ### AI & Automation
 - ChatGPT
